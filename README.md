@@ -27,7 +27,9 @@ To demonstrate an end-to-end real-time data pipeline using Apache Kafka and AWS 
 [CSV Dataset → Python Producer → Kafka (EC2) → Consumer → S3 → Glue Crawler → Athena]
 ```
 
-> 📁 Add your architecture images to this repository's folder named `architecture`.
+## 📷 Architecture
+
+> ![Architecure](Architecture/Kafka_Architecture.png)
 
 ---
 
