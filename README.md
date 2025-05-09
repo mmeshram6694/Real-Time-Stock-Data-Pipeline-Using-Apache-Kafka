@@ -29,9 +29,9 @@ To demonstrate an end-to-end real-time data pipeline using Apache Kafka and AWS 
 
 ---
 
-## 📷 Kafka Architecture 
+## 📷 Architecture Diagram 
 
-### 📊 Kafka Architecture
+### 📊 Kafka 
 ![Kafka_Architecture](Kafka_Architecture.png)
 
 ---
