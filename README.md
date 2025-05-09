@@ -32,7 +32,7 @@ To demonstrate an end-to-end real-time data pipeline using Apache Kafka and AWS 
 ## 📷 Architecture Diagram 
 
 ### 📊 Kafka 
-![Kafka_Architecture](Kafka_Architecture.png)
+![Kafka_Architecture](Kafka_Architecture.jpg)
 
 ---
 
@@ -174,7 +174,6 @@ UMass Dartmouth | Spring 2025 | MIS 696-01 / MIS 681
 ---
 
 ## 📬 Connect
-Interested in real-time data, Kafka, or cloud analytics? 
 Connect with me on 📧 mmeshram@umassd.edu  
 🔗https://www.linkedin.com/in/mayur-meshram9/ 
-Or explore the repo!
+
