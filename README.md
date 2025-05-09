@@ -27,6 +27,15 @@ To demonstrate an end-to-end real-time data pipeline using Apache Kafka and AWS 
 [CSV Dataset → Python Producer → Kafka (EC2) → Consumer → S3 → Glue Crawler → Athena]
 ```
 
+---
+
+## 📷 Kafka Architecture 
+
+### 📊 Kafka Architecture
+![Kafka_Architecture](Kafka_Architecture.png)
+
+---
+
 ## 🔄 Step-by-Step Implementation
 
 ### 1. Kafka Setup on EC2
